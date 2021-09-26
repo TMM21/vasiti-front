@@ -10,7 +10,6 @@ const style = (theme) => ({
 })
 
 function Home(props) {
-  const { classes } = props
   return (
     <>
       {' '}
